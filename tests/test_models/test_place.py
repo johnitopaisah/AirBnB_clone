@@ -1,4 +1,4 @@
- unittests for models/place.py.
+unittests for models/place.py.
 Unittest classes:
     TestPlace_instantiation
     TestPlace_save
